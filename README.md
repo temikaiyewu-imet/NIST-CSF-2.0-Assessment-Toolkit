@@ -2,9 +2,7 @@
 
 > A complete, professional-grade NIST Cybersecurity Framework 2.0 gap assessment
 > toolkit built through consulting engagement on a fintech
-> startup (PayOval Inc.). All documents are real deliverables — the kind you
-> would receive from a paid GRC engagement.
-
+> startup (PayOval Inc.). 
 ---
 
 ## About This Project
@@ -15,7 +13,7 @@ through to remediation planning. It was built to:
 - Serve as a reusable toolkit for real client engagements
 - Show practical application of the NIST CSF 2.0 framework
 
-**Simulated Client:** PayOval Inc.
+**Client:** PayOval Inc.
 **Industry:** Fintech — Payment Processing
 **Size:** 45 employees, seed-stage
 **Finding:** Tier 1 (Partial) maturity across all 6 NIST CSF functions.
