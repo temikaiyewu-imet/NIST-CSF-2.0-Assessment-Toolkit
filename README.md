@@ -74,7 +74,7 @@ Ayooluwanitemi Kaiyewu — GRC Consultant
 Specializing in cybersecurity compliance for startups and SMBs.
 Frameworks: NIST CSF · SOC 2 · ISO 27001 · GDPR · PCI DSS · DORA
 
-[LinkedIn](https://www.linkedin.com/in/ayooluwanitemi-kaiyewu-5b7aa9190/) . [Email](temikaiyewu@gmail.com) · [GitHub](https://github.com/temikaiyewu-imet/)
+[LinkedIn](https://www.linkedin.com/in/ayooluwanitemi-kaiyewu-5b7aa9190/) . [Email](mailto:temikaiyewu@gmail.com)· [GitHub](https://github.com/temikaiyewu-imet/)
 ---
 
 ## License
