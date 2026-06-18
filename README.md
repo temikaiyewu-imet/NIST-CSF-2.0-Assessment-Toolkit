@@ -23,21 +23,21 @@ through to remediation planning. It was built to:
 ## What's Included
 
 ### 1. Assessment Toolkit (Excel)
-`NIST_CSF_Assessment_Toolkit.xlsx`
+[NIST_CSF_Assessment_Toolkit.xlsx](NIST_CSF_Assessment_Toolkit.xlsx)
 - Gap assessment questionnaire for all 6 CSF functions (91 controls).
 - YES / PARTIAL / NO dropdowns with evidence notes column.
 - Auto-scoring dashboard with maturity tier calculation.
 - Remediation roadmap with risk ratings and priority tiers (P1/P2/P3).
 
 ### 2. Audit Report Template (Word)
-`NIST_CSF_Audit_Report_Template.docx`
+[NIST_CSF_Audit_Report_Template.docx](NIST_CSF_Audit_Report_Template.docx)
 - 8-section professional report.
 - Executive summary, scope and methodology, detailed findings per function.
 - Risk register, 90-day remediation roadmap, policy requirements.
 - Reassessment plan (retainer scope), consultant sign-off page.
 
 ### 3. Security Policy Pack (Word)
-`NovaPay_Policy_Pack.docx`
+[PayOval_Policy_Pack.docx](PayOval_Policy_Pack.docx)
 - SEC-POL-001: Cybersecurity Policy (Master)
 - SEC-POL-002: Acceptable Use Policy
 - SEC-POL-003: Password Policy
@@ -74,9 +74,7 @@ Ayooluwanitemi Kaiyewu — GRC Consultant
 Specializing in cybersecurity compliance for startups and SMBs.
 Frameworks: NIST CSF · SOC 2 · ISO 27001 · GDPR · PCI DSS · DORA
 
-LinkedIn: https://www.linkedin.com/in/ayooluwanitemi-kaiyewu-5b7aa9190/
-Email: temikaiyewu@gmail.com
-
+[LinkedIn](https://www.linkedin.com/in/ayooluwanitemi-kaiyewu-5b7aa9190/) . [Email](temikaiyewu@gmail.com) · [GitHub](https://github.com/temikaiyewu-imet/)
 ---
 
 ## License
